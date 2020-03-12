@@ -1,2 +1,2 @@
 # KotlinOrnekUygulama
-Kotlin Örnek Uygulama
+Kotlin ile yazılmış temel seviye bir uygulama
